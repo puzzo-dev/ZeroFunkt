@@ -51,7 +51,7 @@ def logo():
     {cyan} M         M `88888P' dP       `88888P' MM  MMMMMMMM `88888P' `88888P' dP   `YP MMMM  MMMM 
     {cyan} [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
     ''')
-    ctypes.windll.kernel32.SetConsoleTitleW(r"https://t.me/xConKronos || https://sellix.io/TearzZ || https://discord.gg/GE46n8baWf")
+    #ctypes.windll.kernel32.SetConsoleTitleW(r"https://t.me/xConKronos || https://sellix.io/TearzZ || https://discord.gg/GE46n8baWf")
     print(x)
     desc = '\t\tThis module will obfuscate the strings in your letters in order to make your content \nmore difficult '\
            'to detect by spam filters. The technique is called ZeroFont. \nWhich will look something like this: \n\n'
